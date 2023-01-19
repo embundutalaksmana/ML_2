@@ -29,7 +29,7 @@ with st.container():
         5. Drug = Type Obat
 
         Anggota Kelompok
-        - Sekar Harummy Pramesti 
+        - Zhekkar Harummy Pramesty 
         - Yuma Arganto
         - Dini Dwi Rahayu
         """

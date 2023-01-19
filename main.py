@@ -26,7 +26,7 @@ with st.container():
         2. Sex = Jenis Kelamin Pasien\n
         3. BP = Tekanan Darah\n
         4. Na_to_K = Rasio natrium dan kalium dalam darah\n
-        5. Drug = Type Obat
+        5. Drug = Tipe Obat
 
         Anggota Kelompok
         - Zhekkar Harummy Pramesty 
